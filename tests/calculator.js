@@ -28,7 +28,7 @@ describe('Demo calculator tests', function(){
         //expect(result.getText()).toEqual('5');
         homepage.verifyResult('7');
         
-        browser.sleep(2000);
+        browser.sleep(3000);
     
     });
   
